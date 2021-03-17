@@ -1,2 +1,2 @@
-# Learning-git
+# Lean-Git-repo
 test
